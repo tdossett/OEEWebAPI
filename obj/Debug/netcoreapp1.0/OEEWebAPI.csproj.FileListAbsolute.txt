@@ -1,0 +1,13 @@
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.deps.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.runtimeconfig.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.runtimeconfig.dev.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.dll
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.pdb
+C:\Dev\AspNetCore\OEEWebAPI\bin\Debug\netcoreapp1.0\OEEWebAPI.xml
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.csprojResolveAssemblyReference.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.csproj.CoreCompileInputs.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.AssemblyInfoInputs.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.AssemblyInfo.cs
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.dll
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.xml
+C:\Dev\AspNetCore\OEEWebAPI\obj\Debug\netcoreapp1.0\OEEWebAPI.pdb

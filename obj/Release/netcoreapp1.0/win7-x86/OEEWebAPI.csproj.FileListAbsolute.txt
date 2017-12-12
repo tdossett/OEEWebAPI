@@ -1,0 +1,16 @@
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\hostpolicy.dll
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\hostfxr.dll
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.exe
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.deps.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.runtimeconfig.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.runtimeconfig.dev.json
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.dll
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.pdb
+C:\Dev\AspNetCore\OEEWebAPI\bin\Release\netcoreapp1.0\win7-x86\OEEWebAPI.xml
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.csprojResolveAssemblyReference.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.csproj.CoreCompileInputs.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.AssemblyInfoInputs.cache
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.AssemblyInfo.cs
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.dll
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.xml
+C:\Dev\AspNetCore\OEEWebAPI\obj\Release\netcoreapp1.0\win7-x86\OEEWebAPI.pdb
